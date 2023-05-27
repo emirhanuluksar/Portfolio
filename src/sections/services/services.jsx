@@ -1,6 +1,7 @@
+import React from "react";
 import "./services.css";
 
-const services = () => {
+const Services = () => {
   return (
     <section id="services">
       <h2>Services</h2>
@@ -8,4 +9,4 @@ const services = () => {
   );
 };
 
-export default services;
+export default Services;

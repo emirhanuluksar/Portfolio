@@ -1,6 +1,6 @@
 import "./faqs.css";
 
-const faqs = () => {
+const FAQs = () => {
   return (
     <section id="faqs">
       <h2>FAQs</h2>
@@ -8,4 +8,4 @@ const faqs = () => {
   );
 };
 
-export default faqs;
+export default FAQs;

@@ -1,6 +1,6 @@
 import "./about.css";
 
-const about = () => {
+const About = () => {
   return (
     <section id="about">
       <h2>About</h2>
@@ -8,4 +8,4 @@ const about = () => {
   );
 };
 
-export default about;
+export default About;

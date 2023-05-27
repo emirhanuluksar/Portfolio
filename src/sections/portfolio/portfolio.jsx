@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-const portfolio = () => {
+const Portfolio = () => {
   return (
     <section id="portfolio">
       <h2>Portfolio</h2>
@@ -8,4 +8,4 @@ const portfolio = () => {
   );
 };
 
-export default portfolio;
+export default Portfolio;
